@@ -1,1 +1,2 @@
 com.demo.keycloak.CustomEventListenerProviderFactory
+com.demo.keycloak.EmailLoginEventListenerProviderFactory
